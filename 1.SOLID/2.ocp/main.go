@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 //OCP - Open Closed principle
-// Open for extension, closed for modification
+// Types should be Opened for extension, closed for modification
 // specification or description to filter by criteria
 
 type Color int

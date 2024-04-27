@@ -3,6 +3,11 @@ package main
 import "fmt"
 
 // Liskov Substitution Principle
+// Isn't applicable with go
+// If you have an API with a base class...
+
+// You should be able to substitude an embedding
+// type in place of its embedded part
 
 type Sized interface {
 	GetWidth() int

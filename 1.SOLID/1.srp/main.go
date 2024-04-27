@@ -1,5 +1,9 @@
 package main
 
+// Single Responsibility Principle
+// A type should have one primary responsibility
+// and one reason to change
+
 import (
 	"fmt"
 	"io/ioutil"
