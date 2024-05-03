@@ -3,6 +3,8 @@ package main
 // Single Responsibility Principle
 // A type should have one primary responsibility
 // and one reason to change
+// Separation of concers - different types/packages
+// handling different independent tasks/problems
 
 import (
 	"fmt"
