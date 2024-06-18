@@ -17,6 +17,18 @@ const (
 	Unlocked
 )
 
+// 1
+// 2
+// 5
+// FAILED
+// 4
+// FAILED
+// 1
+// 2
+// 3
+// 4
+// UNLOCKED
+
 func main() {
 	code := "1234"
 	state := Locked
